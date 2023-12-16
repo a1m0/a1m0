@@ -9,7 +9,8 @@
 
 - 👯 I'm Currently looking forward to work with passionate professionals as a Data Scientist, Machine Learning Engineer or Deep Learning Engineer.
 
-💻 Tech Stack: <br>
+
+### 💻 Tech Stack: <br>
 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
@@ -23,4 +24,5 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![MLFlow](https://img.shields.io/badge/MLFlow-%230194E2.svg?style=for-the-badge&logo=MLFlow&logoColor=blue)
+![Apache Spark](https://img.shields.io/badge/apachespark-%23FA6423.svg?style=for-the-badge&logo=apachespark&logoColor=orange)
