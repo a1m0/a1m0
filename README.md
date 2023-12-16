@@ -3,9 +3,12 @@
 <img align='right' src="https://media.giphy.com/media/Hi5evcgAbgfJlsB0sD/giphy.gif" width="320">
 <!-- <img src="https://i.pinimg.com/originals/c0/d6/10/c0d610d25c4dce9a0e7475411d586ece.gif"> -->
 
-#### About Me
-- 🔭 I am Alireza Mohammadzade a Data Scientist and a Software Engineer working on creative computer science and engineering related ideas. 
-- 🌱 I’m interested in Data Science, Software Architecture, Open Innovation, Artificial Intelligence and Robotics and I'm eagerly looking to for oppurtunities to learn new things.
+### A little more about me:
+
+- 🔭 I'm a Data Scientist and a Software Engineer working on creative computer science and engineering related ideas. 
+
+- 🌱 I’m interested in Data Science, Software Architecture, Open Innovation, Artificial Intelligence and Robotics and I'm eagerly looking for oppurtunities to learn new things.
+
 - 👯 I'm Currently looking forward to work with passionate professionals as a Data Scientist, Machine Learning Engineer or Deep Learning Engineer.
 
 <!--
