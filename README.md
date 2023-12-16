@@ -25,4 +25,4 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/MLFlow-%230194E2.svg?style=for-the-badge&logo=MLFlow&logoColor=blue)
-![Apache Spark](https://img.shields.io/badge/apachespark-%23FA6423.svg?style=for-the-badge&logo=apachespark&logoColor=orange)
+![Apache Spark](https://img.shields.io/badge/apache%20spark-%23FA6423.svg?style=for-the-badge&logo=apachespark&logoColor=white)
