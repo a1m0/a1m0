@@ -1,5 +1,5 @@
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ0Z2Vxbm96cWs0aTdxemZld3VreDkwOXl5eTV2N3owMHFsZW9qMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/siIPEFuHkcNZ8HnQdO/giphy.gif" width="70" height="100"> Hi, I'm Alireza!</h2>
-<img align='right' src="https://media.giphy.com/media/Hi5evcgAbgfJlsB0sD/giphy.gif" width="240">
+<img align='right' src="https://media.giphy.com/media/Hi5evcgAbgfJlsB0sD/giphy.gif" max-width="240">
 
 ### A little more about me:
 
