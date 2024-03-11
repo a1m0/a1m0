@@ -2,11 +2,11 @@
 
 ### A little more about me:
 
-- 🔭 I'm a Data Scientist and a Software Engineer working on creative computer science and engineering related ideas. 
+- 🔭 I'm a Software Engineer and Machine Learning Engineer working on creative computer science and engineering related ideas. 
 
 - 🌱 I’m interested in Data Science, Software Architecture, Open Innovation, Artificial Intelligence and Robotics and I'm eagerly looking for oppurtunities to learn new things.
 
-- 👯 I'm Currently looking forward to work with passionate professionals as a Data Scientist, Machine Learning Engineer or Deep Learning Engineer.
+- 👯 I'm Currently looking forward to work with passionate professionals as a Software Engineer, Machine Learning Engineer or Deep Learning Engineer.
 
 
 ### 💻 Tech Stack: <br>
