@@ -1,12 +1,10 @@
 <h2>Hi, I'm Alireza! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ0Z2Vxbm96cWs0aTdxemZld3VreDkwOXl5eTV2N3owMHFsZW9qMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/siIPEFuHkcNZ8HnQdO/giphy.gif" width="40" height="45"></h2>
 
 ### A little more about me:
-
-- 🔭 I'm a Software Engineer and Machine Learning Engineer working on creative computer science and engineering related ideas. 
-
-- 🌱 I’m interested in Software Development, Software Architecture, Open Innovation, Artificial Intelligence, and Robotics and I'm eagerly looking for oppurtunities to learn new things.
-
-- 👯 I'm Currently looking forward to work with passionate professionals as a Software Engineer or Machine Learning Engineer.
+Dedicated researcher with strong background in Machine Learning and Artificial Intelligence, currently pursuing advanced
+studies in Quantum Computing and its applications to Machine Learning. Passionate about developing novel algorithms
+at the intersection of Quantum Mechanics, Quantum Computing, Machine Learning and Deep Learning. Committed to
+rigorous mathematical foundations, scientific research, and collaborative innovation in emerging computational paradigms.
 
 
 ### 💻 Tech Stack: <br>
