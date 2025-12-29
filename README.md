@@ -12,7 +12,6 @@ rigorous mathematical foundations, scientific research, and collaborative innova
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23013243.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
-
 <br>
 ![postgresql](https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
